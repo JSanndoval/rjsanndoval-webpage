@@ -1,0 +1,11 @@
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\BL_RJSanndoval\bin\Debug\net8.0\RJS_WS.BLL.deps.json
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\BL_RJSanndoval\bin\Debug\net8.0\RJS_WS.BLL.dll
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\BL_RJSanndoval\bin\Debug\net8.0\RJS_WS.BLL.pdb
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\BL_RJSanndoval\obj\Debug\net8.0\RJS_WS.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\BL_RJSanndoval\obj\Debug\net8.0\RJS_WS.BLL.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\BL_RJSanndoval\obj\Debug\net8.0\RJS_WS.BLL.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\BL_RJSanndoval\obj\Debug\net8.0\RJS_WS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\BL_RJSanndoval\obj\Debug\net8.0\RJS_WS.BLL.dll
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\BL_RJSanndoval\obj\Debug\net8.0\refint\RJS_WS.BLL.dll
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\BL_RJSanndoval\obj\Debug\net8.0\RJS_WS.BLL.pdb
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\BL_RJSanndoval\obj\Debug\net8.0\ref\RJS_WS.BLL.dll

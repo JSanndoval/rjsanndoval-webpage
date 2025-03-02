@@ -1,0 +1,11 @@
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\Entities\bin\Debug\net8.0\RJS_WS.Entities.deps.json
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\Entities\bin\Debug\net8.0\RJS_WS.Entities.dll
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\Entities\bin\Debug\net8.0\RJS_WS.Entities.pdb
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\Entities\obj\Debug\net8.0\RJS_WS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\Entities\obj\Debug\net8.0\RJS_WS.Entities.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\Entities\obj\Debug\net8.0\RJS_WS.Entities.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\Entities\obj\Debug\net8.0\RJS_WS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\Entities\obj\Debug\net8.0\RJS_WS.Entities.dll
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\Entities\obj\Debug\net8.0\refint\RJS_WS.Entities.dll
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\Entities\obj\Debug\net8.0\RJS_WS.Entities.pdb
+C:\Users\Jorge\Desktop\reparacionesRJSanndoval-webpage\backend\Entities\obj\Debug\net8.0\ref\RJS_WS.Entities.dll

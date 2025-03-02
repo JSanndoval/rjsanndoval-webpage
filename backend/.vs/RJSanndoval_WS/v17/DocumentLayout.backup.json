@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jorge\\Desktop\\reparacionesRJSanndoval-webpage\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{954578FF-7518-4E0B-823E-A630F2DA63A8}|apiRjsanndoval\\RJS_WS.csproj|c:\\users\\jorge\\desktop\\reparacionesrjsanndoval-webpage\\backend\\apirjsanndoval\\controllers\\rjs_wscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954578FF-7518-4E0B-823E-A630F2DA63A8}|apiRjsanndoval\\RJS_WS.csproj|solutionrelative:apirjsanndoval\\controllers\\rjs_wscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDCD2D-1C8A-4A54-A192-25BE57A83BEA}|BL_RJSanndoval\\RJS_WS.BLL.csproj|c:\\users\\jorge\\desktop\\reparacionesrjsanndoval-webpage\\backend\\bl_rjsanndoval\\rjs_wsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDCD2D-1C8A-4A54-A192-25BE57A83BEA}|BL_RJSanndoval\\RJS_WS.BLL.csproj|solutionrelative:bl_rjsanndoval\\rjs_wsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RJS_WSBL.cs",
+              "DocumentMoniker": "C:\\Users\\Jorge\\Desktop\\reparacionesRJSanndoval-webpage\\backend\\BL_RJSanndoval\\RJS_WSBL.cs",
+              "RelativeDocumentMoniker": "BL_RJSanndoval\\RJS_WSBL.cs",
+              "ToolTip": "C:\\Users\\Jorge\\Desktop\\reparacionesRJSanndoval-webpage\\backend\\BL_RJSanndoval\\RJS_WSBL.cs",
+              "RelativeToolTip": "BL_RJSanndoval\\RJS_WSBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:45:47.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RJS_WSController.cs",
+              "DocumentMoniker": "C:\\Users\\Jorge\\Desktop\\reparacionesRJSanndoval-webpage\\backend\\apiRjsanndoval\\Controllers\\RJS_WSController.cs",
+              "RelativeDocumentMoniker": "apiRjsanndoval\\Controllers\\RJS_WSController.cs",
+              "ToolTip": "C:\\Users\\Jorge\\Desktop\\reparacionesRJSanndoval-webpage\\backend\\apiRjsanndoval\\Controllers\\RJS_WSController.cs",
+              "RelativeToolTip": "apiRjsanndoval\\Controllers\\RJS_WSController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:45:30.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

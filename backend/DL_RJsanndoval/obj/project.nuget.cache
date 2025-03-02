@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "989aGWPLlGU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jorge\\Desktop\\reparacionesRJSanndoval-webpage\\backend\\DL_RJsanndoval\\RJS_WS.DLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jorge\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
