@@ -1,19 +1,61 @@
-.signup-section {
-    padding: 10rem 0;
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../../../assets/images/computer-wallpaper.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-size: cover;
+.contact-section{
+    padding-top: 8rem;
+    padding-bottom: 5rem;
+    background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 
-.signup-section .form-signup input {
-    box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
-    padding: 1.25rem 2rem;
-    height: auto;
-    font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    font-size: 80%;
+form{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.container-form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin: auto;
+}
+
+.container-form div{
+    background-color: rgb(247, 247, 247);
+    padding: 18px 30px;
+    border-radius: 10px;
+}
+
+.container-form div:nth-child(1){
+    grid-column: span 2;
+}
+
+.container-form div:nth-child(4){
+    grid-column: span 2;
+}
+
+.container-form div:nth-child(5){
+    grid-column: span 2;
+}
+
+.container-form div label{
     text-transform: uppercase;
-    letter-spacing: 0.15rem;
+    font-size: 12px;
+}
+
+.container-form div input, textarea{
+    border: none;
+    background-color: rgb(247, 247, 247);
+    width: 100%;
+    font-size: 20px;
+    font-weight: 500;
+    outline: none;
+}
+
+.button-submit{
+    background-color: rgb(99, 97, 97);
+    border-radius: 20px;
+    width: 100%;
+    height: 2.7rem;
     border: 0;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
 }
