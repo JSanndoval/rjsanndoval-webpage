@@ -12,6 +12,7 @@ import { AboutUsSectionComponent } from './components/about-us-section/about-us-
 import { ProductSectionComponent } from './components/product-section/product-section.component';
 import { FAQSectionComponent } from './components/faq-section/faqsection.component';
 import { ContactSectionComponent } from './components/contact-section/contact-section.component';
+import {ReactiveFormsModule} from '@angular/forms'
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { ContactSectionComponent } from './components/contact-section/contact-se
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
