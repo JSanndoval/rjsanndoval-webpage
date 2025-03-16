@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+section{
+    padding-inline: 10rem;
+}
+
+section div .title{
+    font-size: calc(1.425rem + 2.1vw);
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+}
