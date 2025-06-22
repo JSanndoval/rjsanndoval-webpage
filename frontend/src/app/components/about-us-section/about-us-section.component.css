@@ -1,8 +1,9 @@
-.about-section {
-    padding-top: 8rem;
-    padding-bottom: 8rem;
-}
-
 p{
     text-align: justify;
+}
+
+.fixed-img {
+    width: 200px;
+    max-width: 100%;
+    height: auto;
 }

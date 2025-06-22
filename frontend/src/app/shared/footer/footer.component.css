@@ -1,0 +1,20 @@
+section {
+    padding-top: 1% !important;
+    padding-bottom: 1% !important;
+    padding-inline: 0% !important;
+}
+
+.gradient-custom {
+    /* Fallback for old browsers */
+    background: #000000;
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(
+        to right,
+        rgb(0, 0, 0),
+        rgb(24, 37, 53)
+    );
+
+    /* Optional: Adding a slight texture or shine */
+    background-size: 100%;
+}

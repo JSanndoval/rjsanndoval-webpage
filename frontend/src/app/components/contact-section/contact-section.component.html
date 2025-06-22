@@ -1,39 +1,10 @@
 <section class="contact-section" id="contact">
     <div class="container">
-        <form (ngSubmit)="saveForm()" class="form p-5">
+        <form (ngSubmit)="saveForm()" class="form px-5">
             <div class="text-center">
-                <p class="title">Contáctanos</p>
-            </div>
-            <div class="container-form">
-                <div>
-                    <label for="name" class="form-label">Nombre completo <span class="text-danger">*</span></label>
-                    <input type="text" class="" id="name" name="name" placeholder="Escribe tu nombre">
-                </div>
-                <div>
-                    <label for="email" class="form-label">Correo <span class="text-danger">*</span></label>
-                    <input type="email" class="" id="email" name="email" placeholder="Escribe tu correo">
-                </div>
-                <div>
-                    <label for="phone" class="form-label">Celular <span class="text-danger">*</span></label>
-                    <input type="phone" class="" id="phone" name="phone" placeholder="Escribe tu celular">
-                </div>
-                <div>
-                    <label for="category" class="form-label">Elige una categoría <span class="text-danger">*</span></label>
-                    <select name="category" class="form-select" id="category">
-                        <option [value]="'Servicio'">Servicio</option>
-                        <option [value]="'Producto'">Producto</option>
-                        <option [value]="'Contacto'">Contacto</option>
-                        <option [value]="'Otro'">Otro</option>
-                    </select>
-                </div>
-                <div>
-                    <label for="message" class="form-label">Mensaje <span class="text-danger">*</span></label>
-                    <textarea name="message" class="" id="message" placeholder="Escribe tu mensaje..."></textarea>
-                </div>
-            </div>
-            <div class="text-center mt-4">
-                <button type="submit" class="button-submit">Enviar</button>
+                <p class="title text-white">Contáctanos</p>
             </div>
         </form>
     </div>
+    <iframe src="https://localhost:44300/" width="100%" allow style="height: 100vh"></iframe>
 </section>

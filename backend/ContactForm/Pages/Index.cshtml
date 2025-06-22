@@ -1,0 +1,57 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form method="post" class="form p-5">
+    <div class="container-form">
+        <div>
+            <label for="name" class="form-label">Nombre completo <span class="text-danger">*</span></label>
+            <input type="text" class="" id="name" name="name" asp-for="FormData.Name" placeholder="Escribe tu nombre">
+            <span class="text-danger" asp-validation-for="FormData.Name"></span>
+        </div>
+        <div>
+            <label for="email" class="form-label">Correo <span class="text-danger">*</span></label>
+            <input type="email" class="" id="email" name="email" asp-for="FormData.Email" placeholder="Escribe tu correo">
+            <span class="text-danger" asp-validation-for="FormData.Email"></span>
+        </div>
+        <div>
+            <label for="phone" class="form-label">Celular </label>
+            <input type="text" class="" id="phone" name="phone" asp-for="FormData.Phone" placeholder="Escribe tu celular">
+            <span class="text-danger" asp-validation-for="FormData.Phone"></span>
+        </div>
+        <div>
+            <label for="category" class="form-label">Elige una categoría <span class="text-danger">*</span></label>
+            <select name="category" class="form-select" id="category" asp-for="FormData.Category">
+                <option selected disabled>Elige una opción</option>
+                <option value="Servicio">Servicio</option>
+                <option value="Producto">Producto</option>
+                <option value="Contacto">Contacto</option>
+                <option value="Otro">Otro</option>
+            </select>
+            <span class="text-danger" asp-validation-for="FormData.Category"></span>
+        </div>
+        <div>
+            <label for="message" class="form-label">Mensaje <span class="text-danger">*</span></label>
+            <textarea name="message" class="" id="message" asp-for="FormData.Message" placeholder="Escribe tu mensaje..."></textarea>
+            <span class="text-danger" asp-validation-for="FormData.Message"></span>
+        </div>
+    </div>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="text-center mt-4">
+        <button type="submit" class="button-submit">Enviar</button>
+    </div>
+</form>
+
+@if (Model.SuccessMessage != null)
+{
+    <div class="alert alert-success mt-3">
+        @Model.SuccessMessage
+    </div>
+}
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    }

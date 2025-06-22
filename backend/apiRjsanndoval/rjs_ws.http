@@ -1,6 +1,0 @@
-@apiRjsanndoval_HostAddress = http://localhost:5204
-
-GET {{apiRjsanndoval_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

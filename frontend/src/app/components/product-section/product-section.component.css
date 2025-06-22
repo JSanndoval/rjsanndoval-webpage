@@ -1,15 +1,28 @@
 .products-section {
-    padding-top: 8rem;
     background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 
 .products-section p {
-    margin-bottom: 5rem;
+    color: #fff;
 }
 
 .grid-container{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 45% 45%;
     align-items: center;
-    gap: 0px;
+    gap: 2.5rem;
+}
+
+.product-description-wrap h3, .product-description-wrap p {
+    margin-bottom: 0px;
+}
+
+.image-content img {
+    border-radius: 10%;
+}
+
+@media (max-width: 1000px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
 }

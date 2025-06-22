@@ -1,5 +1,9 @@
-section{
-    padding-inline: 10rem;
+section {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-inline: 10%;
+    font-family: 'Arial', sans-serif;
+    min-height: 100vh;
 }
 
 section div .title{
