@@ -3,12 +3,10 @@
 # ----------------------------
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
-
 # Copiar los archivos del proyecto
-COPY . .
+COPY ./src/backend/ContactForm/ ./
 
-# Publicar en carpeta /app/out
-RUN dotnet publish -c Release -o /app/out
+RUN dotnet publish ContactForm.csproj -c Release -o /app/out
 
 # ----------------------------
 # Etapa 2: Runtime

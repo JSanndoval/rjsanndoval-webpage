@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZK+GF/WngAtWL2NaAra7NLTLrTf8D9N4NTDpzZ/7EFc=",
+  "Hash": "pRaqj1I546CzivNXgyEGLjhwI8vbIcWqDXLK9rDUiSg=",
   "Source": "ContactForm",
   "BasePath": "_content/ContactForm",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ContactForm\\wwwroot",
       "Source": "ContactForm",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "Pattern": "**"
     }
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "C:\\Users\\Jorge\\.nuget\\packages\\sweetalert2\\1.0.1\\staticwebassets\\wordpressAdminTheme.min.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ContactForm.styles.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ContactForm.styles.css",
       "SourceId": "ContactForm",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "ContactForm#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -749,13 +749,13 @@
       "Integrity": "XPra2Lp2TAiq62gsfhcqUXOT6vaIVU9JtZSfWkEM2K4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ContactForm.styles.css"
+      "OriginalItemSpec": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ContactForm.styles.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ContactForm.bundle.scp.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ContactForm.bundle.scp.css",
       "SourceId": "ContactForm",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "ContactForm#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -770,13 +770,13 @@
       "Integrity": "XPra2Lp2TAiq62gsfhcqUXOT6vaIVU9JtZSfWkEM2K4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ContactForm.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ContactForm.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\css\\site.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\favicon.ico",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\js\\site.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ContactForm",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\",
+      "ContentRoot": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\",
       "BasePath": "_content/ContactForm",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -3273,7 +3273,7 @@
     },
     {
       "Route": "ContactForm.bundle.scp.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ContactForm.bundle.scp.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ContactForm.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3310,7 +3310,7 @@
     },
     {
       "Route": "ContactForm.styles.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ContactForm.styles.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ContactForm.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3347,7 +3347,7 @@
     },
     {
       "Route": "ContactForm.wlp0o7z3hy.bundle.scp.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ContactForm.bundle.scp.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ContactForm.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3392,7 +3392,7 @@
     },
     {
       "Route": "ContactForm.wlp0o7z3hy.styles.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ContactForm.styles.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ContactForm.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3437,7 +3437,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3474,7 +3474,7 @@
     },
     {
       "Route": "css/site.p520bu01f1.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3519,7 +3519,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3564,7 +3564,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3601,7 +3601,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3638,7 +3638,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3683,7 +3683,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3720,7 +3720,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3757,7 +3757,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3802,7 +3802,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3847,7 +3847,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3884,7 +3884,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3921,7 +3921,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3966,7 +3966,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4003,7 +4003,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4048,7 +4048,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4085,7 +4085,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.c63t5i9ira.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4130,7 +4130,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4167,7 +4167,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4212,7 +4212,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4249,7 +4249,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ynyaa8k90p.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4294,7 +4294,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4339,7 +4339,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4376,7 +4376,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.c2jlpeoesf.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4421,7 +4421,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4458,7 +4458,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4495,7 +4495,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.aexeepp0ev.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4540,7 +4540,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4577,7 +4577,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.sejl45xvog.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4622,7 +4622,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4659,7 +4659,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.ausgxo2sd3.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4704,7 +4704,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4741,7 +4741,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.22vffe00uq.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4786,7 +4786,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4823,7 +4823,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.cosvhxvwiu.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4868,7 +4868,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4905,7 +4905,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.xvp3kq03qx.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4950,7 +4950,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.t1cqhe9u97.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4995,7 +4995,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5032,7 +5032,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.fvhpjtyr6v.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5077,7 +5077,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5114,7 +5114,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5151,7 +5151,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.fsbi9cje9m.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5196,7 +5196,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5233,7 +5233,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.tmc1g35s3z.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5278,7 +5278,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.qesaa3a1fm.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5323,7 +5323,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5360,7 +5360,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.ee0r1s7dh0.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5405,7 +5405,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5442,7 +5442,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5479,7 +5479,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.jd9uben2k1.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5524,7 +5524,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5561,7 +5561,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.q9ht133ko3.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5606,7 +5606,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rxsg74s51o.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5651,7 +5651,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5688,7 +5688,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5725,7 +5725,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.r4e9w2rdcm.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5770,7 +5770,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.gye83jo8yx.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5815,7 +5815,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5852,7 +5852,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.c2oey78nd0.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5897,7 +5897,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5934,7 +5934,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.wl58j5mj3v.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5979,7 +5979,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6016,7 +6016,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.j5mq2jizvt.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6061,7 +6061,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6098,7 +6098,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.d4r6k3f320.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6143,7 +6143,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6180,7 +6180,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6217,7 +6217,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.nvvlpmu67g.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6262,7 +6262,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.keugtjm085.css",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6307,7 +6307,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.4094rpi4f9.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6352,7 +6352,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6389,7 +6389,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.6pdc2jztkx.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6434,7 +6434,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6471,7 +6471,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6516,7 +6516,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6553,7 +6553,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.iovd86k7lj.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6598,7 +6598,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6635,7 +6635,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6672,7 +6672,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.kbrnm935zg.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6717,7 +6717,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6754,7 +6754,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.ltid2c489k.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6799,7 +6799,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.8vyfqsqgz1.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6844,7 +6844,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6881,7 +6881,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6918,7 +6918,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.y7v9cxd14o.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6963,7 +6963,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7000,7 +7000,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.h1s4sie4z3.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7045,7 +7045,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7082,7 +7082,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4d85u1mtcx.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7127,7 +7127,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7164,7 +7164,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.0j3bgjxly4.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7209,7 +7209,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7246,7 +7246,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.u9q1upor1n.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7291,7 +7291,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7336,7 +7336,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7373,7 +7373,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7418,7 +7418,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7463,7 +7463,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7500,7 +7500,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7537,7 +7537,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7582,7 +7582,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7619,7 +7619,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7664,7 +7664,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7701,7 +7701,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7746,7 +7746,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7783,7 +7783,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7828,7 +7828,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7865,7 +7865,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7902,7 +7902,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7947,7 +7947,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7984,7 +7984,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8029,7 +8029,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8074,7 +8074,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8111,7 +8111,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8156,7 +8156,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8193,7 +8193,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8238,7 +8238,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
