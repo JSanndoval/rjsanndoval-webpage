@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-22T17:06:08.796Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:05:59.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T17:05:59.963Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Services\\EmailService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAawBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T07:28:58.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T07:28:58.159Z"
             }
           ]
         }
