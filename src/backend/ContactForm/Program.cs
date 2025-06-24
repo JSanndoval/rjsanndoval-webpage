@@ -6,8 +6,18 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.Configure<EmailSettings>(
-    builder.Configuration.GetSection("EmailSettings"));
-builder.Services.AddSingleton<EmailService>();
+builder.Configuration.GetSection("EmailSettings"));
+builder.Services.AddScoped<EmailService>();
+builder.Services.AddControllers();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
 
 var app = builder.Build();
 
@@ -26,13 +36,26 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+// CORS (opcional, si usas desde frontend externo como Angular)
+app.UseCors("AllowAll");
+
+// Redirige a HTTPS si llega una solicitud por HTTP
 app.UseHttpsRedirection();
+
+// Sirve archivos estáticos (CSS, JS, imágenes)
 app.UseStaticFiles();
 
+// Routing (enruta a Razor Pages o Controllers)
 app.UseRouting();
 
+// Autorización (si usas [Authorize] en algún endpoint)
 app.UseAuthorization();
 
+// Razor Pages
 app.MapRazorPages();
 
+// API Controllers
+app.MapControllers();
+
+// Inicia la aplicación
 app.Run();
