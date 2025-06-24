@@ -1,11 +1,56 @@
 <section class="contact-section" id="contact">
     <div class="container">
-        <form (ngSubmit)="saveForm()" class="form px-5">
-            <div class="text-center">
-                <p class="title text-white">Contáctanos</p>
+        <div class="text-center">
+            <p class="title text-white">Contáctanos</p>
+        </div>
+
+        <form (ngSubmit)="saveForm()" #contactForm="ngForm" class="form">
+            <div class="container-form row">
+                <div>
+                    <label class="form-label fw-bold">Nombre completo <span class="text-danger">*</span></label>
+                    <input type="text" placeholder="Escribe tu nombre" class="bg-white" name="name" [(ngModel)]="form.name" required>
+                </div>
+
+                <div>
+                    <label class="form-label fw-bold">Correo <span class="text-danger">*</span></label>
+                    <input type="email" placeholder="correo@gmail.com" class="bg-white" name="email" [(ngModel)]="form.email" required email>
+                </div>
+
+                <div>
+                    <label class="form-label fw-bold">Celular</label>
+                    <input type="text" placeholder="Escribe tu celular" class="bg-white" name="phone" [(ngModel)]="form.phone" pattern="^\d{10}$">
+                </div>
+
+                <div>
+                    <label class="form-label fw-bold">Elige una categoría <span class="text-danger">*</span></label>
+                    <select class="form-select" name="category" [(ngModel)]="form.category" required>
+                        <option selected disabled value="">Elige una opción</option>
+                        <option value="Servicio">Servicio</option>
+                        <option value="Producto">Producto</option>
+                        <option value="Contacto">Contacto</option>
+                        <option value="Otro">Otro</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label class="form-label fw-bold">Mensaje <span class="text-danger">*</span></label>
+                    <textarea class="bg-white" placeholder="Ejem. Tengo una duda sobre..." name="message" [(ngModel)]="form.message" required minlength="10"></textarea>
+                </div>
+            </div>
+
+            <div *ngIf="successMessage" class="alert alert-success mt-3">
+                {{ successMessage }}
+            </div>
+
+            <div *ngIf="errorMessage" class="alert alert-danger mt-3">
+                {{ errorMessage }}
+            </div>
+
+            <div class="text-center mt-4">
+                <button type="submit" class="button-submit" [disabled]="!contactForm.form.valid">
+                    Enviar
+                </button>
             </div>
         </form>
     </div>
-    <!-- <iframe src="https://localhost:44300/" width="100%" allow style="height: 100vh"></iframe> -->
-    <iframe src="https://backend-rjsanndoval-webpage.onrender.com/" width="100%" allow style="height: 100vh"></iframe>
 </section>

@@ -12,7 +12,8 @@ import { AboutUsSectionComponent } from './components/about-us-section/about-us-
 import { ProductSectionComponent } from './components/product-section/product-section.component';
 import { FAQSectionComponent } from './components/faq-section/faqsection.component';
 import { ContactSectionComponent } from './components/contact-section/contact-section.component';
-import {ReactiveFormsModule} from '@angular/forms'
+import {FormsModule, ReactiveFormsModule} from '@angular/forms'
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -30,7 +31,9 @@ import {ReactiveFormsModule} from '@angular/forms'
   imports: [
     BrowserModule,
     AppRoutingModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    FormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
