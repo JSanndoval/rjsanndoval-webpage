@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|d:\\jorge\\documents\\github\\reparaciones-rjsanndoval-webpage\\src\\backend\\contactform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|d:\\jorge\\documents\\github\\reparaciones-rjsanndoval-webpage\\src\\backend\\contactform\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|d:\\jorge\\documents\\github\\reparaciones-rjsanndoval-webpage\\src\\backend\\contactform\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,26 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|d:\\jorge\\documents\\github\\reparaciones-rjsanndoval-webpage\\src\\backend\\contactform\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|d:\\jorge\\documents\\github\\reparaciones-rjsanndoval-webpage\\src\\backend\\contactform\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|d:\\jorge\\documents\\github\\reparaciones-rjsanndoval-webpage\\src\\backend\\contactform\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|d:\\jorge\\documents\\github\\reparaciones-rjsanndoval-webpage\\src\\backend\\contactform\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|d:\\jorge\\documents\\github\\reparaciones-rjsanndoval-webpage\\src\\backend\\contactform\\services\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|solutionrelative:services\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|d:\\jorge\\documents\\github\\reparaciones-rjsanndoval-webpage\\src\\backend\\contactform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{307CE559-9E43-400C-882B-CC023F500BAD}|ContactForm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -52,86 +32,23 @@
               "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
               "ToolTip": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\Controllers\\ContactController.cs",
               "RelativeToolTip": "Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T06:35:16.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-24T06:31:16.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-24T06:29:50.937Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-22T17:06:08.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:05:59.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CryptoService.cs",
-              "DocumentMoniker": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\Services\\CryptoService.cs",
-              "RelativeDocumentMoniker": "Services\\CryptoService.cs",
-              "ToolTip": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\Services\\CryptoService.cs",
-              "RelativeToolTip": "Services\\CryptoService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T15:57:58.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-21T16:30:34.154Z"
             },
             {
               "$type": "Document",
@@ -141,10 +58,9 @@
               "RelativeDocumentMoniker": "Services\\EmailService.cs",
               "ToolTip": "D:\\Jorge\\Documents\\GitHub\\reparaciones-rjsanndoval-webpage\\src\\backend\\ContactForm\\Services\\EmailService.cs",
               "RelativeToolTip": "Services\\EmailService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T07:28:58.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T07:28:58.159Z"
             }
           ]
         }

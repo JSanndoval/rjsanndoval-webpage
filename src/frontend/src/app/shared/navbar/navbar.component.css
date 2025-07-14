@@ -1,11 +1,14 @@
+.navbar-wrap {
+position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: 80px;
-    position: sticky;
-    top: 0;
-    z-index: 999;
     background-color: rgba(0, 0, 0, 0.8);
 }
 
@@ -55,6 +58,19 @@ li {
 
     /* Optional: Adding a slight texture or shine */
     background-size: 200% 200%;
+}
+
+.icons-wrap {
+    position: fixed;
+    bottom: 20px; /* Distancia desde abajo */
+    right: 10px;  /* Distancia desde la derecha */
+    display: flex;
+    z-index: 9999; /* Para que quede por encima */
+    gap: 10px;     /* Espacio entre íconos (opcional) */
+}
+
+.icons-wrap i {
+  font-size: 20px; /* Cambia el tamaño según necesites */
 }
 
 @media (max-width: 990px) {

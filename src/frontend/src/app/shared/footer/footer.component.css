@@ -18,3 +18,8 @@ section {
     /* Optional: Adding a slight texture or shine */
     background-size: 100%;
 }
+
+a {
+    text-decoration: underline;
+    color: white;
+}
