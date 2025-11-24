@@ -3,7 +3,7 @@
     width: 100%;
     min-height: 100vh;
     padding: 15rem 0;
-    background-image: url('/assets/images/wallpaper-logo.webp');
+    background-image: url('/assets/images/wallpaper.webp');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@
     font-size: 2.5rem;
     line-height: 2.5rem;
     letter-spacing: 0.8rem;
-    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+    background: linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0.123));
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
