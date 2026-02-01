@@ -18,7 +18,7 @@ declare global {
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  private gaId = environment.gaMeasurementId ?? 'G-HC0SGWS4K3';
+  private gaId = environment.gaMeasurementId ?? 'G-YHBSB8P385';
 
   constructor(
     private router: Router,
